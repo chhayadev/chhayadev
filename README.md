@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhaya Kumari</h1>
-<h3 align="center">🚀 MCA AI/ML Student | Building Smart & Data-Driven Solutions</h3>
+<h3 align="center">🚀 MCA AI/ML Student</h3>
 
 <p align="center">
   💡 "From frontend to AI — building smarter systems every day."
